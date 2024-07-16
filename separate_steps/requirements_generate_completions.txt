@@ -1,0 +1,13 @@
+confection
+fschat
+ray
+openai>=1.25.1
+anthropic
+mistralai
+google-generativeai
+google-cloud-aiplatform
+matplotlib
+weave
+pandas
+baselines
+accelerate
